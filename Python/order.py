@@ -1,5 +1,4 @@
 def order(sentence):
-    # code here
     words = sentence.split()
     numList = []
 

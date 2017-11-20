@@ -1,4 +1,3 @@
-# return masked string
 def maskify(cc):
     if len(cc) <= 4:
         return cc

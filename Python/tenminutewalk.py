@@ -1,5 +1,4 @@
 def isValidWalk(walk):
-    #determine if walk is valid
     if len(walk) < 10:
         return False
     else:

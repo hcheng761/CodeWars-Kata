@@ -40,6 +40,7 @@ public class Kata
       return sign + whole.ToString();
       else return whole.ToString();
     }
+    
     int gcd = GCD(num,den);
     if (whole == 0)
       return sign + (num/gcd).ToString() + "/" + (den/gcd).ToString();

@@ -1,5 +1,3 @@
-#include <vector>
-
 std::vector<int> countPositivesSumNegatives(std::vector<int> input)
 {
     if(input.size() == 0)
